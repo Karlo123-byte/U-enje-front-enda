@@ -1,5 +1,5 @@
 31.10 - Učio sam o HTML-u:
-- Što svaka stranica treba imati i dodavanje texta u sami HTML:
+- Što svaka stranica treba imati, dodavanje texta u HTML-u:
 
 - HTML tagove: <html></html> unutar tog taga se nalaze jos dva taga: <head></head> i <body></body>.
 - Unutar head tagova se nalaze meta tagovi za dodavanje:
