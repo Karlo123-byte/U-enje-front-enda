@@ -11,6 +11,39 @@
                         - Naslov sekcije <h1>
                         - Paragraf <p>
                         - prelazak u novi red <br>
+
+1.11 Naučio sam sto su liste i koje vrste lista imamo:
+  - Uređene liste 
+                        <ol>
+                        <li>Hrvatska</li>
+                        <li>USA</li>
+                        <li>Argentina</li>
+                        </ol>
+
+
+  - Ne uređene liste 
+                        <ul>
+                        <li>Hrvatska</li>
+                        <li>USA</li>
+                        <li>Argentina</li>
+                        </ul>
+
+  - Definicijske liste
+                        <dl>                                                                                              
+                        <dt>Hrvatska</dt>
+                        <dd>Glavni grad Hrvatske je Zagreb</dd>
+                        <dd>Glavni grad Njemačke je Berlin</dd>
+                        <dd>Glavni grad Argentine je Bueno Aires</dd>
+                        </dl>
+                        
+                        
+                        
+
+                        
+
+                      
+
+                        
                           
   
   
