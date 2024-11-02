@@ -35,6 +35,9 @@
                         <dd>Glavni grad Njemačke je Berlin</dd>
                         <dd>Glavni grad Argentine je Bueno Aires</dd>
                         </dl>
+
+  2.11 Implemetirao sam sve vrste liste u kod i to možete vidjeti na projektu u index.html
+                      
                         
                         
                         
